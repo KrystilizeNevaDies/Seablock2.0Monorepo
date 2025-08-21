@@ -1,0 +1,20 @@
+[submodule "angels"]
+    path = mods/angels
+    url = https://github.com/Arch666Angel/mods.git
+	branch = dev2.0
+[submodule "nullius"]
+    path = mods/nullius
+    url = https://github.com/elvanaud/nullius.git
+	branch = update_dev
+[submodule "ScienceCostTweakerM"]
+    path = mods/ScienceCostTweakerM
+    url = https://github.com/elvanaud/ScienceCostTweakerM.git
+	branch = master
+[submodule "SeaBlock"]
+    path = mods/SeaBlock
+    url = https://github.com/Arch666Angel/mods.git
+	branch = dev
+[submodule "SpaceMod"]
+    path = mods/SpaceMod
+    url = https://github.com/Arch666Angel/mods.git
+	branch = main
